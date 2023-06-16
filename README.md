@@ -1,6 +1,6 @@
 <div align="center">
 <h1> Mon vet-conseil </h1>
-<img src="https://badgen.net/badge/Angular/16.0.3/blue?icon=typescript" alt="Angular">
+<img src="https://badgen.net/badge/Angular/14.2.12/blue?icon=typescript" alt="Angular">
 <img src="https://badgen.net/badge/status/development/red?icon=github" alt="Python">
 <br> <br>
 Mini-projet universitaire 🎓 de création d'un site web pour la gestion d'une clinique vétérinaire et services aux animaux domestiques.
@@ -29,7 +29,7 @@ git clone https://github.com/<demander a votre chef de sous groupe>.git
 ``` git checkout <nom de la branche> ```, pour vérifier la branche sur laquelle vous êtes, utiliser la commande ``` git branch ```
 
 ### Prérequis
-- NODE.JS ^16.14.0 || ^18.10.0
+- NODE.JS 14
 
 ### Installation des dépendances
 Toutes les dépendances de notre projet sont dans le fichier ``` package.json ```, pour les installer, il suffit de taper la commande suivante :
